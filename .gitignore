@@ -1,0 +1,6 @@
+# idea ignore files
+.idea/
+*.iml
+out
+gen
+
