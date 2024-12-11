@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package com.ChainOfResponsibility;
 
 public class Client01 {
     public static void main(String[] args) {

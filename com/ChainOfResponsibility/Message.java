@@ -1,4 +1,4 @@
-package ChainOfResponsibility;
+package com.ChainOfResponsibility;
 
 public class Message {
     String msg;
